@@ -1,0 +1,36 @@
+.heading{
+    text-align:center;
+    background-color:black;
+    color:pink;
+    font-size:30px;
+}
+
+img{
+    height:100px;
+    padding:10px;
+} 
+.container{
+    background:black;     
+    display:flex;
+    justify-content: space-around;
+}
+
+.body{ 
+    text-align:center;
+    background-color:black;
+    color:pink;
+    font-size:45px;
+}
+
+.donate {
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:pink;
+}
+ 
+html{ 
+    background-color:black;
+}
